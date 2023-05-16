@@ -1,0 +1,11 @@
+.header {
+    padding-top: 20px;  
+    padding-bottom: 20px;
+}
+
+.container_header {
+    justify-content: space-between;
+}
+.header__logo {
+    margin-right: auto;
+}

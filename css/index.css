@@ -1,0 +1,6 @@
+@import './default.css';
+@import './blocks/header.css';
+@import './blocks/form.css';
+@import './blocks/main.css';
+@import './blocks/news-list.css';
+@import './blocks/footer.css';

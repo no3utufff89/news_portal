@@ -1,0 +1,16 @@
+.section-header {
+    padding-top: 20px;  
+    padding-bottom: 20px;
+    border-top: 1px solid var(--main-gray);
+    border-bottom: 1px solid var(--main-gray);
+}
+.content {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.page-header__text {
+    font-weight: 700;
+font-size: 26px;
+line-height: 34px;
+}
