@@ -124,10 +124,10 @@ export const createSelect = (err, data) => {
     select.className = 'header-select';
     select.id = 'form-select';
     select.name = 'select';
-    const option = document.createElement('option');
-    option.value = '';
-    option.textContent = 'Все страны';
-    select.append(option)
+    // const option = document.createElement('option');
+    // option.value = '';
+    // option.textContent = 'Все страны';
+    // select.append(option)
 
     uniqueCountries.forEach(item => {
         const option = document.createElement('option');
